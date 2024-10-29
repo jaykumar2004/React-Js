@@ -6,7 +6,7 @@ export default UserContext;
 
 
 //to make user context:
-/*{ <userContext>
+/*{ <userContext>  //this is provider
     <Login />
     <Card>
         <Data />
